@@ -59,7 +59,7 @@ async def init():
     await userbot.start()
     await ERA.start()
     await ERA.decorators()
-    LOGGER("ERAVIBES").info("🎉 𝗘𝗥𝗔𝗩𝗜𝗕𝗘𝗦🥳𝗦𝗧𝗔𝗥𝗧𝗘𝗗🥳𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 🎊")
+    LOGGER("ERAVIBES").info("🎉 🥳𝗦𝗧𝗔𝗥𝗧𝗘𝗗🥳𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 🎊")
     await idle()
 
 
